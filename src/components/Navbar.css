@@ -1,0 +1,18 @@
+nav, ul{
+    display: flex;
+    background-color: aqua;
+    padding: 5px;
+}
+
+li{
+    list-style-type: none;
+    padding: 5px;
+}
+ul{
+    gap: 34px;
+}
+.logo{
+    padding: 10px;
+    padding-left: 60px;
+    padding-right: 900px;
+}
